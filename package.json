@@ -17,14 +17,14 @@
     "tracking"
   ],
   "dependencies": {
+    "axios": "^0.18.0",
     "debug": "^3.0.0",
-    "request": "2.86.0",
     "uuid": "^3.0.0"
   },
   "devDependencies": {
+    "mocha": "*",
     "should": "*",
-    "sinon": "^1.17.7",
-    "mocha": "*"
+    "sinon": "^1.17.7"
   },
   "author": "Jörg Tillmann <joerg@peaksandpies.com>",
   "license": "MIT"
